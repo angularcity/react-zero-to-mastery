@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-zero-to-mastery/static/css/main.952662ab.chunk.css",
+    "main.js": "/react-zero-to-mastery/static/js/main.c573bbeb.chunk.js",
+    "main.js.map": "/react-zero-to-mastery/static/js/main.c573bbeb.chunk.js.map",
+    "runtime-main.js": "/react-zero-to-mastery/static/js/runtime-main.4f5016b3.js",
+    "runtime-main.js.map": "/react-zero-to-mastery/static/js/runtime-main.4f5016b3.js.map",
+    "static/js/2.84fd0de3.chunk.js": "/react-zero-to-mastery/static/js/2.84fd0de3.chunk.js",
+    "static/js/2.84fd0de3.chunk.js.map": "/react-zero-to-mastery/static/js/2.84fd0de3.chunk.js.map",
+    "index.html": "/react-zero-to-mastery/index.html",
+    "precache-manifest.1a44bb61f6de9d0e8abe7f245515a0c6.js": "/react-zero-to-mastery/precache-manifest.1a44bb61f6de9d0e8abe7f245515a0c6.js",
+    "service-worker.js": "/react-zero-to-mastery/service-worker.js",
+    "static/css/main.952662ab.chunk.css.map": "/react-zero-to-mastery/static/css/main.952662ab.chunk.css.map"
+  }
+}
